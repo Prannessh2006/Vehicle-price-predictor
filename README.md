@@ -58,7 +58,7 @@ To run this project locally:
    
 
 4. Visit the web app
-   Navigate to `http://127.0.0.1:5000/` in your browser
+   Navigate to http://127.0.0.1:5000/ in your browser
 
  📌 Future Enhancements
 
@@ -69,6 +69,6 @@ To run this project locally:
 
  🙌 Acknowledgments
 
-This project is part of my data science learning journey, showcasing how regression modeling and web development can merge to create impactful tools. Feedback is always welcome!
+This project is part of my data science learning journey though I haven't integrated the web development path yet, I have mentioned the path you can follow which showcases how regression modelling and web development can merge to create impactful tools. Feedback is always welcome!
 
 If you’d like to tailor it more toward recruiters or add your internship details for context, I can help refine it even further!
